@@ -1,0 +1,26 @@
+#card{
+    border: solid;
+    width: 500px;
+    height: 350px;
+    padding: 15px;
+}
+#pfp{
+    border: solid;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left:69px;
+}
+#pfpDiv{
+    width: 100%;
+}
+#logo{
+        position: relative;
+        left: 400px;
+        top: 60px;
+}
+#misc{
+    position:relative;
+    left:375px;
+    bottom:75px;
+}
